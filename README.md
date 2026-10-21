@@ -29,7 +29,7 @@ python template_matching.py exemplo/imagem.png exemplo/template.png
 Exemplo com uma fotografia:
 
 ```bash
-python template_matching.py imagem2.jpg exemplo/template_hamster.png
+python template_matching.py image2.jpg exemplo/template_hamster.png
 ```
 
 O programa exibe a imagem original, o template, o mapa de correspondência e o resultado. O terminal informa se a pontuação atende ao limiar de detecção.
